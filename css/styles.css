@@ -1,7 +1,6 @@
 body {
   background-color: lightgray;
   font-family: sans-serif;
-  background-image: image("gvkg.jpg");
 }
 
 .about {
@@ -10,5 +9,14 @@ body {
 }
 
 .background {
+  margin: 12px;
+  border: 2px darkblue;
+  padding: 4px;
   background-color: lightskyblue;
+  width: 40%;
+  float: right;
+}
+
+img {
+  float: left;
 }
