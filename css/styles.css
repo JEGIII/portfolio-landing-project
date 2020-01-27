@@ -1,11 +1,19 @@
 body {
+  background-image: url("bkimg.jpg");
   background-color: lightgray;
+  height: 500px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
   font-family: sans-serif;
+  
 }
 
 .about {
   background-color: darkgray;
   font-style: italic;
+  margin: 12px;
+  padding: 4px;
 }
 
 .background {
@@ -19,6 +27,7 @@ body {
 
 img {
   float: left;
+  margin: 12px;
 }
 
 .course {
