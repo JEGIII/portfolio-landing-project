@@ -15,7 +15,7 @@ This webpage is an independent project that serves as an illustration of what I 
 <li>Open the HTML file using your preferred browser.</li>
 </ol>
 
-[Click here]() to view the site on GitHub Pages!
+[Click here](jegiii.github.io/portfolio-landing-project) to view the site on GitHub Pages!
 
 ## License
 Copyright (c) 2020 Joseph Golden
